@@ -8,3 +8,5 @@
 ** https://docs.djangoproject.com/en/3.0/topics/install/#installing-official-release
 ** https://docs.djangoproject.com/en/3.0/intro/tutorial01/
 ** https://docs.djangoproject.com/en/3.0/intro/overview/
+* Python for the DotNet Developer
+** https://www.codemag.com/Article/1407051/Python-for-C
