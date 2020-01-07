@@ -4,6 +4,8 @@
 * Virtual Environments
   * https://docs.python.org/3/library/venv.html
   * https://realpython.com/python-virtual-environments-a-primer/
+   * Create a new virtual environment inside the directory
+   * Run command python3 -m venv [ENVIRONMENT NAME]
 * Django
   * https://docs.djangoproject.com/en/3.0/topics/install/#installing-official-release
   * https://docs.djangoproject.com/en/3.0/intro/tutorial01/
