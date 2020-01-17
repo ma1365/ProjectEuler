@@ -1,5 +1,6 @@
 # ProjectEuler
 * Python
+  * https://www.jetbrains.com/help/pycharm/quick-start-guide.html
   * https://docs.python.org/3.8/tutorial/index.html
 * Virtual Environments
   * https://docs.python.org/3/library/venv.html
